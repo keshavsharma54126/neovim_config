@@ -8,7 +8,7 @@ return {
       require("nightfox").setup({
         options = {
           -- Example: make background transparent
-          transparent = false,
+          transparent = true,
           -- Example: change comment style
           styles = {
             comments = "italic",
